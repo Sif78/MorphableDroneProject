@@ -1,0 +1,12 @@
+Symlinking /home/daniel/Desktop/simulator/devel/./setup.sh
+Symlinking /home/daniel/Desktop/simulator/devel/./local_setup.zsh
+Symlinking /home/daniel/Desktop/simulator/devel/./setup.bash
+Symlinking /home/daniel/Desktop/simulator/devel/./_setup_util.py
+Symlinking /home/daniel/Desktop/simulator/devel/./env.sh
+Symlinking /home/daniel/Desktop/simulator/devel/./setup.zsh
+Symlinking /home/daniel/Desktop/simulator/devel/./local_setup.sh
+Symlinking /home/daniel/Desktop/simulator/devel/./local_setup.bash
+Symlinking /home/daniel/Desktop/simulator/devel/./cmake.lock
+Symlinking /home/daniel/Desktop/simulator/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/daniel/Desktop/simulator/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/daniel/Desktop/simulator/devel/lib/pkgconfig/catkin_tools_prebuild.pc

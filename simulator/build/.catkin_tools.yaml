@@ -1,0 +1,6 @@
+devel_space: /home/daniel/Desktop/simulator/devel
+install: false
+install_space: /home/daniel/Desktop/simulator/install
+profile: default
+source_space: /home/daniel/Desktop/simulator/src
+workspace: /home/daniel/Desktop/simulator

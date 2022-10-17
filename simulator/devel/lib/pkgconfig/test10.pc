@@ -1,0 +1,1 @@
+/home/daniel/Desktop/simulator/devel/.private/test10/lib/pkgconfig/test10.pc
